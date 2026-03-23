@@ -1,10 +1,8 @@
 # Hi there, I'm Mohammed Al-Yazji!
 
-I’m a passionate Full-Stack Developer who loves getting every task done perfectly and efficiently.
-I work mainly with Python, PHP, and JavaScript, and enjoy building clean, functional, and user-friendly applications.
+Full-Stack Developer | Python • PHP • JS | AI Enthusiast
 
-I’m also a beginner in AI and very interested in learning more about machine learning and modern AI tools as I grow in my career.
-
+I’m a passionate Full-Stack Developer dedicated to building clean, efficient, and user-friendly applications. Currently, I’m bridging my web development expertise with a deep dive into Machine Learning and modern AI tools. Always refining my craft, one perfect commit at a time.
 
 ## How to Reach Me
 - 📧 Email: [mw.alyazji@gmail.com]
