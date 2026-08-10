@@ -1,10 +1,11 @@
-# Hi there, I'm Mohammed Al-Yazji!
+# Hi there, I'm Mohammed Al-Yazji
 
-Full-Stack Developer | Python • PHP • JS | AI Enthusiast
+Full-Stack Developer | Python • PHP • JS | ML
 
-I’m a passionate Full-Stack Developer dedicated to building clean, efficient, and user-friendly applications. Currently, I’m bridging my web development expertise with a deep dive into Machine Learning and modern AI tools. Always refining my craft, one perfect commit at a time.
+Full-stack software engineer building for web and mobile. I work with React, Laravel, Flutter, and Express | also dip into ML when the problem calls for it. I write notes on everything I learn and share them here so others can benefit too.
 
 ## How to Reach Me
-- 📧 Email: [mw.alyazji@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/mohammed-yazji/]
+- (📧 Email)[mw.alyazji@gmail.com]
+- (💼 LinkedIn)[https://www.linkedin.com/in/mohammed-yazji/]
+- (Portfolio)[https://yazji-protofolio.vercel.app/]
 
