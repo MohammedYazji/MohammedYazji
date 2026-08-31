@@ -1,11 +1,24 @@
-# Hi there, I'm Mohammed Al-Yazji
+# Hi there, I'm Mohammed Al-Yazji 👋
 
-Full-Stack Developer | Python • PHP • JS | ML
+### Full-Stack Software Engineer | Express • Node.js • React • Next.js
+Full-stack software engineer specialized in building scalable web and mobile applications with **Node.js, Express, React, and Next.js**, alongside strong expertise in **Laravel** and **Machine Learning**. 
 
-Full-stack software engineer building for web and mobile. I work with React, Laravel, Flutter, and Express | also dip into ML when the problem calls for it. I write notes on everything I learn and share them here so others can benefit too.
+I focus on architecting secure RESTful APIs, real-time systems, and integrating AI/LLM models into modern applications. I actively document my engineering journey and share technical notes to help the developer community.
 
-## How to Reach Me
-- (📧 Email)[mw.alyazji@gmail.com]
-- (💼 LinkedIn)[https://www.linkedin.com/in/mohammed-yazji/]
-- (Portfolio)[https://yazji-protofolio.vercel.app/]
+---
 
+### 🛠️ Tech Stack & Tools
+
+* **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Flutter, Redux / Zustand
+* **Backend & APIs:** Express.js, Node.js, Laravel, REST APIs, WebSockets (Socket.io), MCP
+* **Databases:** MongoDB, PostgreSQL, MySQL, Redis
+* **AI & Machine Learning:** Python, PyTorch, Hugging Face (Transformers), Scikit-Learn
+* **DevOps & Tools:** Git, GitHub, Docker, AWS S3, Cloudflare, Postman
+
+---
+
+### 📫 Connect with Me
+
+* **Email:** [mw.alyazji@gmail.com](mailto:mw.alyazji@gmail.com)
+* **LinkedIn:** [linkedin.com/in/mohammed-yazji](https://www.linkedin.com/in/mohammed-yazji/)
+* **Portfolio:** [yazji-protofolio.vercel.app](https://yazji-protofolio.vercel.app/)
