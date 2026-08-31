@@ -7,13 +7,14 @@ I focus on architecting secure RESTful APIs, real-time systems, and integrating 
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & CS Fundamentals
 
 * **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Flutter, Redux / Zustand
 * **Backend & APIs:** Express.js, Node.js, Laravel, REST APIs, WebSockets (Socket.io), MCP
 * **Databases:** MongoDB, PostgreSQL, MySQL, Redis
 * **AI & Machine Learning:** Python, PyTorch, Hugging Face (Transformers), Scikit-Learn
-* **DevOps & Tools:** Git, GitHub, Docker, AWS S3, Cloudflare, Postman
+* **CS & Core Concepts:** Data Structures & Algorithms, Computer Networks, Security Fundamentals, Design Patterns, Operating Systems
+* **DevOps & Tools:** Git, GitHub, Docker, Linux, Postman
 
 ---
 
